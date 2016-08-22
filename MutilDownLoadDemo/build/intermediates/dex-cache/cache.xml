@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha3\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha3_b7e240b66e0709509b1f683a783137db843bad9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_1ed4768aaaccd6a7edfa432e1aadc3eadabcaca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gaomin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_96fa230acb3100022183f0deae4201c2db93a813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ca31d2e8aefb140962650e61f6850aa60ec76607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_de2c5c3f8e683939560496846ad7ace25981328e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android-studio-bundle-windows\android-studio\gradle\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha3\constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha3_93a3a0fcc09496780ca3b23529f0769df7703ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_3b3d615518f388961dd53928499b90727e78dc66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="I:\AndroidStudioProjects\MutilDownLoadDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_436fd8f4fedff65f158130133471f14840e4f902.jar" />
+    </item>
+
+</items>
